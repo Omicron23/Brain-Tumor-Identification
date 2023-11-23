@@ -3,7 +3,7 @@
 This project addresses a problem related to the detection of brain tumors using convolutional neural networks (CNNs). Here's a breakdown of the code and the problem it aims to solve:
 
 >Data Preparation:
->>The code loads brain MRI images from the kaggle imput directory.
+>>The code loads brain MRI images from the kaggle data repository.
 >>It uses a LabelEncoder to convert categorical labels (folder names) into numerical values and then converts them into one-hot encoded format.
 >>The image data is normalized by dividing pixel values by 255.
 >>The dataset is split into training and testing sets.
