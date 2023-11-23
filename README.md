@@ -20,7 +20,7 @@ While working on this project, I encountered challenges that enriched my learnin
 
 ## Next Steps
 
-I see this project as a stepping stone for further exploration in medical image analysis. Future enhancements may include:
+This project evolved as a natural continuation of my previous work on a flower classification model ((**https://github.com/Omicron23/Flower-recognition-with-Keras.git**)). The inspiration for delving into brain tumor detection arose from my introduction to the complexities of the nervous system. Leveraging my existing Python programming skills, I embarked on a journey that culminated in the results you see today. Moving forward, I envision this project as a foundation for further exploration in the realm of medical image analysis. Prospective improvements may encompass refining the model architecture, exploring additional preprocessing techniques, and collaborating with healthcare professionals to enhance real-world applicability. Future enhancements may include:
 
 - Refining the model architecture for improved stability.
 - Investigating additional preprocessing techniques.
