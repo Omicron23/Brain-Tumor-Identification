@@ -29,7 +29,7 @@ I see this project as a stepping stone for further exploration in medical image 
 Feel free to explore the code, contribute, or provide feedback. Let's continue advancing technology for meaningful impact!
 
 
--**A deeper dive**
+- **A deeper dive**
 >Data Preparation:
 >>The code loads brain MRI images from the kaggle data repository.
 >>It uses a LabelEncoder to convert categorical labels (folder names) into numerical values and then converts them into one-hot encoded format.
@@ -60,6 +60,3 @@ Feel free to explore the code, contribute, or provide feedback. Let's continue a
 
 >In summary, this code is a pipeline for building, training, and evaluating a CNN for the classification of >>brain MRI images to detect brain tumors. The use of data augmentation helps improve the model's generalization >>by exposing it to a variety of image transformations during training. The visualizations provided help in >>understanding the model's performance and training progress.
 
->Shortcomings
->>The overall model accurracy is quite unstable: fixes will be made in future
->>Adding additional neural layers drastically reduces model accuracy
