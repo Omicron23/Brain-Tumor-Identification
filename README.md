@@ -29,7 +29,7 @@ I see this project as a stepping stone for further exploration in medical image 
 Feel free to explore the code, contribute, or provide feedback. Let's continue advancing technology for meaningful impact!
 
 
-###A deeper dive
+-##A deeper dive
 >Data Preparation:
 >>The code loads brain MRI images from the kaggle data repository.
 >>It uses a LabelEncoder to convert categorical labels (folder names) into numerical values and then converts them into one-hot encoded format.
